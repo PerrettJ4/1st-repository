@@ -1,4 +1,3 @@
-# learning how to use git in VScode
 # Precourse Personal Repo
 
 I chose this tribute because I thought ducks are awesome. They have really cool swimming techniques and seem very chill 1005% of the time. As the **ex-primeduckster** Lezley Ducksworth one said: 
