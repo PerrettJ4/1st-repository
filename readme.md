@@ -14,3 +14,17 @@ Wise words, wise words indeed, which continue to be echoed today via Gerald's aw
 * using web fonts and list notation in html
 
 If I have uploaded the content incorrectly pleae find the webpage [here](https://codepen.io/PerrettJ4/pen/QWvMGBj).
+
+<br>
+
+# Pre-course Summer Reports
+
+All Masters year final documents.
+
+##### Reports included: 
+* 
+* 
+* 
+* 
+* 
+* 
